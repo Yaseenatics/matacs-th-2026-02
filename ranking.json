@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 98.75,
+    "reason": "Strongest overall eligible bid, with extensive experience, the lowest price among eligible proposals, the fastest confirmed timeline, and a complete team and safety plan."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 92.38,
+    "reason": "Strong warranties, a complete team and safety plan, and competitive pricing, with slightly less experience and a longer timeline than A."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 85.49,
+    "reason": "Meets mandatory requirements and has relevant experience, but has a higher price, a longer timeline, and less documented evidence for team and approach."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed; the proposed subcontractor arrangement requires human review."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "The completion timeline is unspecified, preventing reliable scoring of a key weighted criterion; clarification is required."
+  }
+]
